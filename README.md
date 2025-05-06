@@ -8,6 +8,15 @@ There are also plans to port this to the newer 2013 SDK, but no playable builds 
 
 ---
 
+## 📷 Screenshots
+
+![Snapshot 0000](github_files/images/snapshot0000.jpg)
+![de_dust2 #1](github_files/images/de_dust20001.jpg)
+![de_dust2 #2](github_files/images/de_dust20002.jpg)
+![de_dust2 #3](github_files/images/de_dust20003.jpg)
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is **incomplete and experimental**. Some features may not work correctly, and setup requires manual intervention and problem-solving.
@@ -79,15 +88,6 @@ Please submit PRs, open issues, or start discussions to help push the project fo
 
 - `custom/` — Contains test content like bot profiles and CSS files (you may need to add more manually)
 - `mod_cstrike/` — The output game folder to be copied into `sourcemods`
-
----
-
-## 📷 Screenshots
-
-![Snapshot 0000](github_files/images/snapshot0000.jpg)
-![de_dust2 #1](github_files/images/de_dust20001.jpg)
-![de_dust2 #2](github_files/images/de_dust20002.jpg)
-![de_dust2 #3](github_files/images/de_dust20003.jpg)
 
 ---
 
