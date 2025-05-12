@@ -1,10 +1,12 @@
-# Counter-Strike: Source – Source SDK 2013 Port (WIP)
+# Counter-Strike: Source – Source SDK 2013 Port
 
-This is an ongoing effort to port **Counter-Strike: Source** to the **2013 Source SDK (Multiplayer branch, old version)**. The project is currently **playable**, but comes with **many bugs and rough edges**.
+This is a port of **Counter-Strike: Source** to the **2013 Source SDK (Multiplayer branch, old version)**. The project is currently **playable**, but comes with **many bugs and rough edges**.
 
-We hope this serves as a base for a community cleanup and polish effort. 
+We hope this serves as a base for learning and that this may be used as a reference. 
 
-There are also plans to port this to the newer 2013 SDK, but no playable builds yet.
+The original creator, GEEKiDoS, actually has been working on upgrading this project to the new source SDK. Please check out his project here:
+
+https://github.com/GEEKiDoS/cstrike-sdk-2013
 
 ---
 
@@ -107,9 +109,9 @@ Counter-Strike Source (partially) ported to the 2013 Source (old) SDK
 
 Github won't let me clone the parent repo so I am uploading it this way.
 
-Original:
+Originally, I had a a link here to GEEKiDoS' project, but it no longer exists.
 
-https://github.com/GEEKiDoS/cstrike-sdk-2013/
+He is working hard on upgrading cstrike to the newest sdk, please check the link at the top of this page.
 
                SOURCE 1 SDK LICENSE
 
