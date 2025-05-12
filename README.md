@@ -1,4 +1,4 @@
-# Counter-Strike: Source – Source SDK 2013 Port
+# Counter-Strike: Source – (OLD) Source SDK 2013 Port
 
 This is a port of **Counter-Strike: Source** to the **2013 Source SDK (Multiplayer branch, old version)**. The project is currently **playable**, but comes with **many bugs and rough edges**.
 
